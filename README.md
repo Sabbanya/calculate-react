@@ -1,1 +1,1 @@
-# calculate-react : https://sabbanya.github.io/calculate-react/
+# calculate-react : https://calculate-react-olive.vercel.app/
